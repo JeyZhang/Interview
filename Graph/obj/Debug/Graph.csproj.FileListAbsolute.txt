@@ -1,0 +1,7 @@
+C:\Users\zhanjie\source\repos\Interview\Graph\bin\Debug\Graph.exe.config
+C:\Users\zhanjie\source\repos\Interview\Graph\bin\Debug\Graph.exe
+C:\Users\zhanjie\source\repos\Interview\Graph\bin\Debug\Graph.pdb
+C:\Users\zhanjie\source\repos\Interview\Graph\obj\Debug\Graph.csprojAssemblyReference.cache
+C:\Users\zhanjie\source\repos\Interview\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\zhanjie\source\repos\Interview\Graph\obj\Debug\Graph.exe
+C:\Users\zhanjie\source\repos\Interview\Graph\obj\Debug\Graph.pdb
