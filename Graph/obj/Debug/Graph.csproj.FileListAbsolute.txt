@@ -5,3 +5,8 @@ C:\Users\zhanjie\source\repos\Interview\Graph\obj\Debug\Graph.csprojAssemblyRefe
 C:\Users\zhanjie\source\repos\Interview\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
 C:\Users\zhanjie\source\repos\Interview\Graph\obj\Debug\Graph.exe
 C:\Users\zhanjie\source\repos\Interview\Graph\obj\Debug\Graph.pdb
+D:\XiaoIceCS\Person\Jie\Personal\Interview\Graph\bin\Debug\Graph.exe.config
+D:\XiaoIceCS\Person\Jie\Personal\Interview\Graph\bin\Debug\Graph.exe
+D:\XiaoIceCS\Person\Jie\Personal\Interview\Graph\bin\Debug\Graph.pdb
+D:\XiaoIceCS\Person\Jie\Personal\Interview\Graph\obj\Debug\Graph.exe
+D:\XiaoIceCS\Person\Jie\Personal\Interview\Graph\obj\Debug\Graph.pdb

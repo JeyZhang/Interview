@@ -5,3 +5,9 @@ C:\Users\zhanjie\source\repos\Interview\LinkedList\obj\Debug\LinkedList.csprojAs
 C:\Users\zhanjie\source\repos\Interview\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
 C:\Users\zhanjie\source\repos\Interview\LinkedList\obj\Debug\LinkedList.exe
 C:\Users\zhanjie\source\repos\Interview\LinkedList\obj\Debug\LinkedList.pdb
+D:\XiaoIceCS\Person\Jie\Personal\Interview\LinkedList\bin\Debug\LinkedList.exe.config
+D:\XiaoIceCS\Person\Jie\Personal\Interview\LinkedList\bin\Debug\LinkedList.exe
+D:\XiaoIceCS\Person\Jie\Personal\Interview\LinkedList\bin\Debug\LinkedList.pdb
+D:\XiaoIceCS\Person\Jie\Personal\Interview\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+D:\XiaoIceCS\Person\Jie\Personal\Interview\LinkedList\obj\Debug\LinkedList.exe
+D:\XiaoIceCS\Person\Jie\Personal\Interview\LinkedList\obj\Debug\LinkedList.pdb
