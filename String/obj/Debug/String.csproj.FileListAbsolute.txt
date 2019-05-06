@@ -1,0 +1,7 @@
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\String\bin\Debug\String.exe.config
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\String\bin\Debug\String.exe
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\String\bin\Debug\String.pdb
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\String\obj\Debug\String.csprojAssemblyReference.cache
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\String\obj\Debug\String.exe
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\String\obj\Debug\String.pdb

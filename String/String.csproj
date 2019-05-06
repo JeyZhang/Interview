@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B6943441-C2BB-4EBA-AFAD-CC68EE25D0AA}</ProjectGuid>
+    <ProjectGuid>{1D0B2F08-A580-48E4-84A6-3E74491393E2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Array</RootNamespace>
-    <AssemblyName>Array</AssemblyName>
+    <RootNamespace>String</RootNamespace>
+    <AssemblyName>String</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,19 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ArrayFinder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sort\BubbleSort.cs" />
-    <Compile Include="Sort\HeapSort.cs" />
-    <Compile Include="Sort\InsertSort.cs" />
-    <Compile Include="Sort\ISort.cs" />
-    <Compile Include="Sort\MergeSort.cs" />
-    <Compile Include="Sort\QuickSort.cs" />
-    <Compile Include="Sort\SelectSort.cs" />
-    <Compile Include="Sort\SortUtil.cs" />
-    <Compile Include="TwoPointers\MinWindowLengthOfMaxNum.cs" />
-    <Compile Include="TwoSum\TwoSum.cs" />
+    <Compile Include="ReverseStringII541.cs" />
+    <Compile Include="ReverseTheWords.cs" />
+    <Compile Include="ReverseWordsI151.cs" />
+    <Compile Include="ReverseWordsIII557.cs" />
+    <Compile Include="Strstr.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
