@@ -1,0 +1,6 @@
+D:\XiaoIceCS\Person\Jie\Personal\Interview\Problems\bin\Debug\Problems.exe.config
+D:\XiaoIceCS\Person\Jie\Personal\Interview\Problems\bin\Debug\Problems.exe
+D:\XiaoIceCS\Person\Jie\Personal\Interview\Problems\bin\Debug\Problems.pdb
+D:\XiaoIceCS\Person\Jie\Personal\Interview\Problems\obj\Debug\Problems.csprojResolveAssemblyReference.cache
+D:\XiaoIceCS\Person\Jie\Personal\Interview\Problems\obj\Debug\Problems.exe
+D:\XiaoIceCS\Person\Jie\Personal\Interview\Problems\obj\Debug\Problems.pdb
