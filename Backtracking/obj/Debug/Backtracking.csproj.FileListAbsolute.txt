@@ -1,0 +1,7 @@
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\Backtracking\bin\Debug\Backtracking.exe.config
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\Backtracking\bin\Debug\Backtracking.exe
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\Backtracking\bin\Debug\Backtracking.pdb
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\Backtracking\obj\Debug\Backtracking.csprojAssemblyReference.cache
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\Backtracking\obj\Debug\Backtracking.csproj.CoreCompileInputs.cache
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\Backtracking\obj\Debug\Backtracking.exe
+C:\Users\zhanjie\Desktop\Personal\Interview_Coding\Interview\Backtracking\obj\Debug\Backtracking.pdb
